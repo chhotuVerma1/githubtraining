@@ -3,3 +3,6 @@ facebook
 instagram
 hiker
 game
+payment option added
+send money 
+recevie money
